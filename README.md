@@ -31,21 +31,3 @@ Modulul Hand este montat pe proteză. Acesta creează rețeaua Wi-Fi locală, pr
 Modulul Hand este alimentat de la un acumulator de aproximativ 12V, format din 6 celule și protejat printr-un BMS de 60A. Tensiunea este coborâtă la 5V cu un convertor step-down.
 
 Modulele Glove și Muscle sunt alimentate separat, fiecare folosind câte o celulă Li-Ion/LiPo conectată la un modul de încărcare TP4056 și la un convertor step-up la 5V.
-
-## Structura repository-ului
-
-```text
-coduri/
-  hand_esp32/
-  glove_esp32/
-  muscle_esp32/
-
-documentatie/
-  documentatie_BRIGE.docx
-  prezentare_BRIGE.pptx
-
-imagini/
-  ansamblu_BRIGE.jpg
-  proteza.jpg
-  manusa_encodere.jpg
-  modul_EMG.jpg
