@@ -117,22 +117,6 @@ Modulele Glove și Muscle sunt alimentate separat. Fiecare folosește câte o ce
 - Arduino IDE
 - imprimare 3D
 
-## Structura repository-ului
-
-```text
-coduri/
-  glove_esp32/
-  muscle_esp32/
-  hand_esp32/
-
-Documentatie/
-  documentatie_BRIGE.docx
-  prezentare_BRIGE.pptx
-
-Imagini/
-  Poze Proiect/
-  Poze din timpul constructiei/
-```
 
 ## Galerie
 
